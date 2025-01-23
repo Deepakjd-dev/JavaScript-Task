@@ -1,0 +1,18 @@
+<html>
+    <head></head>
+    <body>
+        <script>
+            var myObject ={
+                value :47,
+                multiplyArrow:(num1) =>{
+                    return this.value * num1;
+                },
+                multiplyTraditional : function(num2){
+                    return this.value * num2;
+                }
+            };
+            console.log(myObject.multiplyArrow(4));
+            console.log(myObject.multiplyTraditional(4));
+        </script>
+    </body>
+</html>
