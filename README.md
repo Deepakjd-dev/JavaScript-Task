@@ -60,4 +60,4 @@ This repository contains a series of JavaScript tasks designed to practice and d
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/javascript-tasks.git
+   https://github.com/Deepakjd-dev/JavaScript-Task.git
